@@ -29,7 +29,12 @@
     <p> Você pode jogar o jogo nesse link: https://caiolacerdamt.github.io/jogo-do-pong-js/ </p>
 
 ##
- 
+
+<div align="center">
+  <h2> 📹 Gif do Jogo </h2>
+  <img width="400" src="https://github.com/caiolacerdamt/jogo-do-pong-js/blob/main/gif%20jogo%20pong.gif?raw=true">
+    </div>
+  
  <div align="center">
   <h2> 🖋 Assinatura: </h2>
   <a href="https://github.com/caiolacerdamt"><img align="center" alt="CaioPNG" width="140" src="https://user-images.githubusercontent.com/122616615/225480551-032ab453-4f73-4978-b666-9432ba0e68ba.jpeg"><br><sub align="center">Caio Lacerda</sub>
